@@ -9,7 +9,7 @@ from tensorflow.keras.applications import efficientnet
 from tensorflow.keras.layers import TextVectorization
 
 # Load the model weights from the URL
-model_url = "https://github.com/hvamsiprakash/v1/raw/main/model_weights.h5"
+model_url = "https://github.com/hvamsiprakash/fcuk/raw/main/Downloads/model_weights.h5"
 model_path = "image_captioning_model_weights.h5"
 
 # Download the model weights if not already present
